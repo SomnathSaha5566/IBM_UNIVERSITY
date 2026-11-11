@@ -1,0 +1,11 @@
+{
+  "best_model": "HistGradientBoosting",
+  "cv_macro_f1": {
+    "LogisticRegression": 0.5486840946566559,
+    "RandomForest": 0.7905951897600693,
+    "HistGradientBoosting": 0.7990279591353775
+  },
+  "test_macro_f1": 0.8180091901858326,
+  "test_weighted_f1": 0.9650105766750916,
+  "test_accuracy": 0.9664832416208105
+}

@@ -1,0 +1,9 @@
+numpy
+pandas
+scikit-learn
+matplotlib
+seaborn
+joblib
+streamlit
+# Only needed for IBM Cloud deployment (src/ibm_deploy.py)
+ibm-watsonx-ai
